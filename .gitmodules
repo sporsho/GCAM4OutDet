@@ -1,0 +1,3 @@
+[submodule "3D_OutDet"]
+	path = 3D_OutDet
+	url = git@github.com:sporsho/3D_OutDet.git
