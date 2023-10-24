@@ -14,3 +14,6 @@ Change the arguments according to your data locaitons.
 ## Step 3: Visualize GradCAM Mesh 
 
 ```python visualize.py```
+
+## Point Cloud GradCAM mesh would look like: 
+![mesh](GradCAM/gcam_mesh.png)
